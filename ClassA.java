@@ -1,10 +1,10 @@
-
+import java.lang.*;
 
 
 public class ClassA{
 	
-	public void meth1(){
-		System.out.........
+	public String meth1(){
+		System.out.println("Hello Git");
 		
 		return "";
 	}
