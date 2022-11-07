@@ -15,8 +15,18 @@ public int add(int x, int y){
 }
 ```
 ```html
-<body>
-  <h1>titre</h1>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title></title>
+</head>
+
+<body style="background-color:#1abc9c">
+<h1 style="padding-top:20%; padding-bottom:20%; text-align:center;color:#000">Agence de location de voitures et Motos</h1>
+<h2 style="text-align:center;color:#000">2022</h2>
+
 </body>
+</html>
 ```
 
