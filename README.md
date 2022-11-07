@@ -6,3 +6,11 @@ ___
 + Louer une moto
 + S'abonner
 + Afficher 
+___
+## Exemple de code:
+Ceci est un exemple de code pour utiliser notre projet
+```java
+public int add(int x, int y){
+return x+y;
+}
+```
