@@ -32,4 +32,14 @@ public int add(int x, int y){
 </body>
 </html>
 ```
+___
+Table des versions
+|Version|Date|Etat|
+|---|----|----|
+|0.1|2019|closed|
+|1.2|2021|closed|
+|2.1|2022|Beta|
+
+
+
 
