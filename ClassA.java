@@ -1,15 +1,15 @@
+import java.lang.*;//par houssem en ligne
 
-
-import java.sql.*;
+import java.sql.*;//par Bob 22
 public class ClassA2{
 	
-	public void meth1(){
-		System.out.print
-		
+	public String meth1(){
+		System.out.println("Hello Git");
 		return "";
 	}
-	
 }
 
 
+
 //Fin du fichier
+
