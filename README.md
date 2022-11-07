@@ -9,6 +9,9 @@ ___
 ___
 ## Exemple de code:
 Ceci est un exemple de code pour utiliser notre projet
+Pour déclarer un entier en java : `int a = 5;`
+
+
 ```java
 public int add(int x, int y){
   return x+y;
