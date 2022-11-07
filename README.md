@@ -11,6 +11,12 @@ ___
 Ceci est un exemple de code pour utiliser notre projet
 ```java
 public int add(int x, int y){
-return x+y;
+  return x+y;
 }
 ```
+```html
+<body>
+  <h1>titre</h1>
+</body>
+```
+
