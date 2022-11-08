@@ -9,4 +9,8 @@ public class Program{
 		System.out....
 	}...........
 	
+
+boolean fonctionB{
+	return true;
+}
 }
