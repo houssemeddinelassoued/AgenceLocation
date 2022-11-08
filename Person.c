@@ -1,4 +1,7 @@
 include <stdio.h>
 //Merci
 
-void main()
+void main(){
+	
+	
+}
