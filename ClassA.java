@@ -4,7 +4,7 @@ import java.sql.*;//par Bob 22
 public class ClassA2{
 	
 	public String meth1(){
-		System.out.println("Hello Git");
+		//TODO 1 compléter la méthode
 		return "";
 	}
 }
