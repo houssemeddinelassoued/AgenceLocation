@@ -1,4 +1,4 @@
 include <stdio.h>
-///bonjour C
-///....
-//3333
+//Merci
+
+void main()
