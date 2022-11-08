@@ -13,4 +13,8 @@ public class Program{
 boolean fonctionB{
 	return true;
 }
+boolean fonctionC{
+	return true;
+}
+
 }
