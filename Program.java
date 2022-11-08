@@ -18,8 +18,8 @@ boolean fonctionC{
 }
 
 	
-	public int afficher1000(){
-		return 1000;
+	public int afficher2000(){
+		return 2000;
 	}
 		
 	
