@@ -16,7 +16,15 @@ boolean fonctionB{
 boolean fonctionC{
 	return true;
 }
+
 boolean fonctionD{
 	return true;
 }
+}
+
+	public int afficher1000(){
+		return 1000;
+	}
+		
+	
 }
