@@ -17,4 +17,10 @@ boolean fonctionC{
 	return true;
 }
 
+	
+	public int afficher1000(){
+		return 1000;
+	}
+		
+	
 }
