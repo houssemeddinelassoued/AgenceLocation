@@ -30,6 +30,9 @@ boolean fonctionD{
 	public int afficher2000(){
 		return 2000;
 	}
-		
+	
+	public int affiche3000(){
+		return 3000;
+	}
 	
 }
