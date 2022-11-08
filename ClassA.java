@@ -1,5 +1,5 @@
 import java.lang.*;//par houssem en ligne
-
+import java.lang.exception.*;
 import java.sql.*;//par Bob 22
 public class ClassA{
 	
