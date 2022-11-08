@@ -16,5 +16,7 @@ boolean fonctionB{
 boolean fonctionC{
 	return true;
 }
-
+boolean fonctionD{
+	return true;
+}
 }

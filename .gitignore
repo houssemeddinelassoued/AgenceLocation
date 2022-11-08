@@ -2,3 +2,4 @@
 /libs
 executable.jar
 *.jar
+/bin/
